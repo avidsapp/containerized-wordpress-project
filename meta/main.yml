@@ -2,4 +2,4 @@ dependencies:
 - name: AdnanHodzic.python-ubuntu-bootstrap
 - name: AdnanHodzic.system-upgrade
 - name: AdnanHodzic.docker-compose-setup
-- name: AdnanHodzic.containerized-wordpress
+- name: avidsapp.containerized-wordpress
